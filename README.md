@@ -135,7 +135,7 @@ stockHunter/
 
 ## 👨‍💻 Developer
 
-**Özcan Eslem**
+**ozcanpng**
 
 📫 [ozcanpng](https://github.com/ozcanpng)
 
