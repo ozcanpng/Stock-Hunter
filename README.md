@@ -54,10 +54,10 @@ git clone https://github.com/ozcanpng/stockHunter.git
 cd stockHunter
 
 # Install dependencies
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # Run the application
-python main.py
+python3 main.py
 ```
 
 ---
