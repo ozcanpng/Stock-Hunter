@@ -11,7 +11,7 @@
 
 *Track Zara, Pull&Bear, and Bershka products in any size — get notified instantly when stock arrives!*
 
-[📦 Download Latest Release](https://github.com/ozcanpng/stockHunter/releases) • [🐛 Report Bug](https://github.com/ozcanpng/stockHunter/issues) • [✨ Request Feature](https://github.com/ozcanpng/stockHunter/issues)
+[📦 Download Latest Release](https://github.com/ozcanpng/Stock-Hunter/releases) • [🐛 Report Bug](https://github.com/ozcanpng/Stock-Hunter/issues) • [✨ Request Feature](https://github.com/ozcanpng/Stock-Hunter/issues)
 
 </div>
 
@@ -33,7 +33,7 @@
 ## 🚀 Quick Start
 
 ### Option 1: Pre-compiled Windows Executable
-1. Download `stockHunter.exe` from [Releases](https://github.com/ozcanpng/stockHunter/releases)
+1. Download `stockHunter.exe` from [Releases](https://github.com/ozcanpng/Stock-Hunter/releases)
 2. Install [Chrome browser](https://www.google.com/chrome/) (required)
 3. Download [ChromeDriver](https://chromedriver.chromium.org/) and place it in your PATH
 4. Run `stockHunter.exe`
