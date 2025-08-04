@@ -15,6 +15,8 @@
 
 </div>
 
+![](https://github.com/ozcanpng/Stock-Hunter/blob/main/images/stockHunter.png)
+
 ---
 
 ## 🌟 Features
